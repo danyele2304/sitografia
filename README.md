@@ -1,11 +1,11 @@
-1.	https://www.lescienze.it/news/2016/02/25/news/regola_evoluzione_denti_ominidi-2985891
-	2.	https://drfedericopalermo.it/8848-2
-	3.	https://www.soadental.it/blog/quanto-e-stata-ed-e-importante-la-dentatura-nellevoluzione-delluomo
-	4.	https://www.infodent.it/news/levoluzione-dellapparato-stomatognatico
-	5.	https://pikaia.eu/levoluzione-scritta-nei-denti
-	6.	https://aulascienze.scuola.zanichelli.it/multimedia-scienze/science-news/sfida-alla-co-evoluzione-denti-cervello
-	7.	https://it.dental-tribune.com/news/dai-denti-si-puo-prevedere-levoluzione-delluomo
-	8.	https://www.focus.it/scienza/scienze/i-primi-denti-dell-uomo
-	9.	https://www.infodent.it/news/evoluzione-e-ontogenesi-dentale-nei-primi-homo
-	10.	https://www.pensierocritico.eu/evoluzione-linguaggio.html
-	11.	https://ilbolive.unipd.it/it/news/gene-che-si-rivelato-cruciale-nellevoluzione
+	https://www.lescienze.it/news/2016/02/25/news/regola_evoluzione_denti_ominidi-2985891
+	https://drfedericopalermo.it/8848-2
+	https://www.soadental.it/blog/quanto-e-stata-ed-e-importante-la-dentatura-nellevoluzione-delluomo
+	https://www.infodent.it/news/levoluzione-dellapparato-stomatognatico
+	https://pikaia.eu/levoluzione-scritta-nei-denti
+	https://aulascienze.scuola.zanichelli.it/multimedia-scienze/science-news/sfida-alla-co-evoluzione-denti-cervello
+	https://it.dental-tribune.com/news/dai-denti-si-puo-prevedere-levoluzione-delluomo
+	https://www.focus.it/scienza/scienze/i-primi-denti-dell-uomo
+	https://www.infodent.it/news/evoluzione-e-ontogenesi-dentale-nei-primi-homo
+	https://www.pensierocritico.eu/evoluzione-linguaggio.html
+        https://ilbolive.unipd.it/it/news/gene-che-si-rivelato-cruciale-nellevoluzione
